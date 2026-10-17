@@ -4,11 +4,11 @@ A collection of four interactive front-end projects built with HTML, CSS, and va
 
 ## Projects
 
-| Project | Description | Live Demo |
-|---|---|---|
-| [Quote Generator] | Displays a random quote and its author on each click. 
-| [Accordion (FAQ)]| An expandable FAQ list where each item toggles open and closed. 
-| [Stopwatch] | A stopwatch with start, stop, and reset controls. 
+| Project | Description 
+|---|---
+| Quote Generator | Displays a random quote and its author on each click. 
+| Accordion (FAQ)| An expandable FAQ list where each item toggles open and closed. 
+| Stopwatch | A stopwatch with start, stop, and reset controls. 
 
 ## Tech Stack
 
